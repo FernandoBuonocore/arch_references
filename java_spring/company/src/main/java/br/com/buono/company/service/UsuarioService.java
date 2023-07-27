@@ -1,6 +1,6 @@
 package br.com.buono.company.service;
 
-import br.com.buono.company.Model.Usuario;
+import br.com.buono.company.model.Usuario;
 
 import java.util.List;
 

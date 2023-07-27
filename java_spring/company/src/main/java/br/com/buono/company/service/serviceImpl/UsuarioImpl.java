@@ -1,6 +1,6 @@
 package br.com.buono.company.service.serviceImpl;
 
-import br.com.buono.company.Model.Usuario;
+import br.com.buono.company.model.Usuario;
 import br.com.buono.company.service.UsuarioService;
 import org.springframework.stereotype.Service;
 

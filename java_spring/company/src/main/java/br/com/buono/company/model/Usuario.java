@@ -1,4 +1,4 @@
-package br.com.buono.company.Model;
+package br.com.buono.company.model;
 
 import lombok.Data;
 
@@ -15,4 +15,6 @@ public class Usuario {
     private String login;
 
     private String nomeCompleto;
+
+
 }

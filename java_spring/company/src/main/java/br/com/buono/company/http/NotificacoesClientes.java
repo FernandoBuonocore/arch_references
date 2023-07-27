@@ -1,4 +1,4 @@
-package br.com.buono.company.controller;
+package br.com.buono.company.http;
 
 import br.com.buono.company.dto.ClientDto;
 import org.springframework.beans.factory.annotation.Value;
